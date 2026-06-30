@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
 #line{
-	height : 200px;
-	width : 2px;
+	background-color: rgb(0,0,0);
+	width : 200px;
+	height : 2px;
 	position : absolute;
 	top : 50%;
 	left : 50%;
-	background-color: black;
 }
